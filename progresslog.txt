@@ -1,0 +1,19 @@
+### Python Learning — 21 October 2026
+
+**Topics covered:**
+- `for` loops and `while` loops
+- Using `%` to check whether numbers are divisible by 2
+- Counting values using a `count` variable
+- Adding values using a `total` variable
+- Understanding loop conditions and when loops stop
+- Started learning functions using my Word Guessing Game
+
+**Project:** Python Word Guessing Game
+
+**Functions understood:**
+- `chooseWord()` — selects a random word from a list.
+- `wordStatus()` — checks each letter of the secret word and returns the guessed letters while replacing hidden letters with underscores.
+
+**Next session:** Continue understanding `wordGuessingGame()` one section at a time, focusing on how the functions work together.
+
+**Goal:** Understand my code properly so I can eventually solve programming problems independently.
