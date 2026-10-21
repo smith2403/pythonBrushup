@@ -68,3 +68,18 @@ for i in range(1, 51):
     if i % 4 == 0 or i % 7 == 0:
         c += i
 print(c)
+
+# Task 1: Odd-number loop
+# The remainder not being 0 keeps the if condition true. This is because the number is not divisible by 2, so it is an odd number.
+
+# Task 2: Counting even numbers
+# Your answer: a — 3
+# In each iteration, the loop checks whether the number is divisible by 2. If the condition is true, it adds 1 to the count variable. The numbers 2, 4, and 6 are divisible by 2, so the count becomes 1 + 1 + 1 = 3.
+
+# Task 3: Counting numbers greater than 5
+# Your answer: a — 5
+# The answer is 5 because 5 > 5 is false. The loop counts the numbers starting from 6 up to 10. Each number satisfies the condition, so the count becomes 1 + 1 + 1 + 1 + 1 = 5.
+
+# Task 4: Summing numbers from 1 to 4
+# Your answer: 10
+# The loop adds each number to the running total: 0 + 1 = 1, 1 + 2 = 3, 3 + 3 = 6, and 6 + 4 = 10. The final answer is 10.
